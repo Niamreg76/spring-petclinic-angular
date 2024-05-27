@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: app-roman-04 # Remplacez par le nom de votre application Azure Web App
+  AZURE_WEBAPP_NAME: app-roman-04 # Remplacez par le nom de votre application Azures Web App
   AZURE_WEBAPP_PACKAGE_PATH: './dist'   # Répertoire de build de l'applicastion Angular
   NODE_VERSION: '20.x'                # Version de Node.js à utiliser
 
